@@ -12,5 +12,3 @@ This notebook is an example of a BERT fine-tuning. We fine-tuned BERT with the I
 This notebook provides an explanation of next word prediction with n-gram. This is a good start to understand more complex models.
 ### Neural Network from scratch
 This project offers a code of the main classes of Keras only with numpy. This is helpfull to understand what is behind the principle of vanilla neural networks.
-### Sites : myara.github.io
-Here i put some explanations of models or concept in Machine Learning and Deep Learning.
